@@ -1,5 +1,5 @@
 Question,Answer
-Who is the target audience for the QnA Maker tool?,"<p>QnA Maker is primarily meant to provide a FAQ data source that you can query from your bot/application. Although developers will find this useful, content owners will especially benefit from this tool. QnA Maker is a completely no-code way of managing the content that powers your bot/application.</p>"
+Who is the target audience for the QnA Maker tool?,"Sorry You need to search this in google"
 How do I log in to the QnA Maker Portal?,"<p>You can log in with your <a href=""https://account.microsoft.com/account"">Microsoft account</a>.</p>"
 Is the QnA Maker Service free?,"<p>Yes. The QnA Maker tool is currently free to use. However, we do meter usage per account. See the Subscription Keys section of the documentation for details.</p>"
 "My URLs have valid FAQ content, but the tool cannot extract them. Why not?","<p>It’s possible that the tool is not able to auto-extract QnA from valid FAQ URLs. In such cases, you have the option of copying and pasting the QnA content into a .txt and then trying to ingest it. Alternately, you can always editorially add content to your knowledge base.</p>"
